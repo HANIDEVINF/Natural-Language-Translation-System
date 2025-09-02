@@ -1,0 +1,14 @@
+PROGRAM HelloAc
+VAR{
+
+// Déclarations
+
+INTEGER A,B; 
+
+INTEGER T[10];
+}
+BEGIN
+T[11]=4;
+
+
+END.
